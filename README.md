@@ -1,3 +1,3 @@
 # Practicing-Web-Scrapping
-Practicing Web Scrapping
-You can know briefly from my uploaded PDF 
+
+You can know briefly about web scrapping from my uploaded PDF.
